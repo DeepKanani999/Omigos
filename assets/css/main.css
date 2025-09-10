@@ -218,14 +218,14 @@
 }
 
 .tw-btn-circle {
-    width: 140px;
-    height: 140px;
+    width: 110px;
+    height: 80px;
     line-height: 1;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     background-color: var(--main-600);
-    border-radius: 50%;
+    border-radius: 15px;
     position: relative;
     overflow: hidden;
 }
@@ -833,7 +833,7 @@ input[type=number] {
 }
 
 .section-subtitle {
-    color: #20b8d4;
+    color: #FFC861;
 }
 
 .section-title {
@@ -7376,6 +7376,7 @@ input:focus, input:focus-visible {
 .banner-two-title {
     font-size: 200px;
     line-height: 55%;
+    color: #FFF;
 }
 
 @media screen and (max-width: 1399px) {
@@ -7674,7 +7675,7 @@ input:focus, input:focus-visible {
 }
 
 .about-title {
-    font-size: 75px;
+    font-size: 45px;
     line-height: 93%;
 }
 
@@ -8991,7 +8992,7 @@ input:focus, input:focus-visible {
 }
 
 .travelor-title {
-    font-size: 200px;
+    font-size: 130px;
 }
 
 @media screen and (max-width: 991px) {
@@ -9019,7 +9020,7 @@ input:focus, input:focus-visible {
 }
 
 .travelor-text {
-    font-size: 70px;
+    font-size: 50px;
     line-height: 96%;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -9754,7 +9755,7 @@ input:focus, input:focus-visible {
     font-size: 200px;
     line-height: 76%;
     text-transform: uppercase;
-    color: #172b47;
+    color: #FFFFFF;
     white-space: nowrap;
 }
 
